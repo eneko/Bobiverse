@@ -2,7 +2,7 @@
 
 [We are Legion, We are Bob](http://bobiverse.wikia.com/wiki/We_Are_Legion_(We_Are_Bob)_Wiki)
 
-![](/Bobiverse.png)
+[![](/Bobiverse.png)](https://raw.githubusercontent.com/eneko/Bobiverse/master/Bobiverse.png)
 
 ## Download Source Graph
 Download [GraphViz (DOT) source file](https://raw.githubusercontent.com/eneko/Bobiverse/master/Bobiverse.gv)
