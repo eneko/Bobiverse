@@ -1,0 +1,257 @@
+digraph {
+	graph [bb="0 0 2059 1296",
+		fontname=HelveticaNeue,
+		layout=dot
+	];
+	node [label="\N"];
+	"%1103"	 [fillcolor="0.166667 0.392146 1.000000",
+		label="82\nEridani\n⭐️",
+		shape=circle,
+		style=",filled"];
+	"%1137"	 [fillcolor="0.000000 0.486721 1.000000",
+		label="Milo\nHEAVEN v2\n🚀",
+		shape=square,
+		style=",filled"];
+	"%1107" -> "%1137"	 [color="0.000000 1.000000 1.000000"];
+	"%1113" -> "%1103";
+	"%1117" -> "%1103";
+	"%1121" -> "%1103";
+	"%1125" -> "%1103";
+	"%1129" -> "%1103";
+	"%1133" -> "%1103";
+	"%1137" -> "%1103";
+	"%1155"	 [fillcolor="0.166667 0.392146 1.000000",
+		label="Omicron2\nEridani\n⭐️",
+		shape=circle,
+		style=",filled"];
+	"%1137" -> "%1155";
+	"%1159"	 [fillcolor="0.625000 0.617735 1.000000",
+		label="Romulus\nOmicron\nEridani\n🌎",
+		shape=circle,
+		style=",filled"];
+	"%1155" -> "%1159";
+	"%1163"	 [fillcolor="0.625000 0.617735 1.000000",
+		label="Vulcan\nOmicron\nEridani\n🌎",
+		shape=circle,
+		style=",filled"];
+	"%1155" -> "%1163";
+	"%1169"	 [IVPosition="-34,74",
+		label="Bob 2.0\nHEAVEN v1\n🚀",
+		shape=square];
+	"%1167" -> "%1169";
+	"%1173"	 [IVPosition="352,970",
+		label="Bert\nColony\nShip\n🚌",
+		shape=diamond];
+	"%1167" -> "%1173";
+	"%1177"	 [label="Ernie\nColony\nShip\n🚌",
+		shape=diamond];
+	"%1167" -> "%1177";
+	"%1181"	 [label="Howard\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1167" -> "%1181";
+	"%1185"	 [fillcolor="0.000000 0.486721 1.000000",
+		label="Medeiros #1\n🇧🇷",
+		shape=diamond,
+		style=",filled"];
+	"%1167" -> "%1185";
+	"%1169" -> "%1185"	 [color="0.000000 1.000000 1.000000"];
+	"%1189"	 [IVPosition="68,295",
+		fillcolor="0.166667 0.392146 1.000000",
+		label="Epsilon\nEridani\n⭐️",
+		shape=circle,
+		style=",filled"];
+	"%1169" -> "%1189";
+	"%1173" -> "%1159";
+	"%1177" -> "%1163";
+	"%1181" -> "%1155";
+	"%1181" -> "%1173";
+	"%1181" -> "%1177";
+	"%1189" -> "%1137";
+	"%1189" -> "%1185";
+	"%1207"	 [label="Bob 2.0\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1189" -> "%1207";
+	"%1211"	 [label="Riker \nHEAVEN v2\n🚀",
+		shape=square];
+	"%1189" -> "%1211";
+	"%1215"	 [label="Bill\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1189" -> "%1215";
+	"%1219"	 [fillcolor="0.625000 0.617735 1.000000",
+		label="Ragnarok\nEpsilon\nEridani\n🌎",
+		shape=circle,
+		style=",filled"];
+	"%1189" -> "%1219";
+	"%1223"	 [label="Mario\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1189" -> "%1223";
+	"%1229"	 [fillcolor="0.166667 0.392146 1.000000",
+		label="Delta\nEridani\n⭐️",
+		shape=circle,
+		style=",filled"];
+	"%1207" -> "%1229";
+	"%1211" -> "%1167";
+	"%1211" -> "%1181";
+	"%1237"	 [label="Homer  Bob 6\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1211" -> "%1237";
+	"%1241"	 [fillcolor="0.000000 0.486721 1.000000",
+		label="Arthur\nHEAVEN v2\n🚀",
+		shape=square,
+		style=filled];
+	"%1211" -> "%1241";
+	"%1215" -> "%1219";
+	"%1247"	 [label="Linus Bob 8\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1215" -> "%1247";
+	"%1251"	 [label="Garfield\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1215" -> "%1251";
+	"%1255"	 [label="Goku Bob 10\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1215" -> "%1255";
+	"%1259"	 [label="Calvin\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1215" -> "%1259";
+	"%1267"	 [fillcolor="0.166667 0.392146 1.000000",
+		label="Beta\nHydrae \n⭐️",
+		shape=circle,
+		style=",filled"];
+	"%1223" -> "%1267";
+	"%1271"	 [label="Marvin\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1229" -> "%1271";
+	"%1275"	 [label="Luke\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1229" -> "%1275";
+	"%1279"	 [label="Bender\nHEAVEN v2\n🚀",
+		shape=square];
+	"%1229" -> "%1279";
+	"%1237" -> "%1167";
+	"%1285"	 [label="Ralph\nHEAVEN v3\n🚀",
+		shape=square];
+	"%1237" -> "%1285";
+	"%1289"	 [label="Charles\nHEAVEN v3\n🚀",
+		shape=square];
+	"%1237" -> "%1289";
+	"%1293"	 [label="Milder\nHEAVEN  v2\n🚀",
+		shape=square];
+	"%1237" -> "%1293";
+	"%1297"	 [fillcolor="0.166667 0.392146 1.000000",
+		label="Epsilon\nIndy\n⭐️",
+		shape=circle,
+		style=",filled"];
+	"%1247" -> "%1297";
+	"%1251" -> "%1219";
+	"%1303"	 [IVPosition="195,982",
+		fillcolor="0.166667 0.392146 1.000000",
+		label="Alpha\nCentauri\n⭐️",
+		shape=circle,
+		style=",filled"];
+	"%1255" -> "%1303";
+	"%1259" -> "%1303";
+	"%1309"	 [label="Bart\nHEAVEN v3\n🚀",
+		shape=square];
+	"%1259" -> "%1309";
+	subgraph "clusterKhan" {
+		"%1107"	 [IVPosition="402,1129",
+			fillcolor=transparent,
+			label="Medeiros #2\n🇧🇷",
+			shape=diamond];
+		"%1325"	 [label="Khan\nHEAVEN v2\n🚀",
+			shape=square];
+		"%1113"	 [fillcolor="0.000000 0.486721 1.000000",
+			label="Elmer\nHEAVEN v3\n🚀",
+			shape=square,
+			style=",filled"];
+		"%1117"	 [fillcolor="0.000000 0.486721 1.000000",
+			label="Hector\nHEAVEN v3\n🚀",
+			shape=square,
+			style=",filled"];
+		"%1121"	 [fillcolor="0.000000 0.486721 1.000000",
+			label="Kyle\nHEAVEN v3\n🚀",
+			shape=square,
+			style=",filled"];
+		"%1125"	 [fillcolor="0.000000 0.486721 1.000000",
+			label="Bernie\nHEAVEN v3\n🚀",
+			shape=square,
+			style=",filled"];
+		"%1129"	 [fillcolor="0.000000 0.486721 1.000000",
+			label="Fred\nHEAVEN v3\n🚀",
+			shape=square,
+			style=",filled"];
+		"%1133"	 [fillcolor="0.000000 0.486721 1.000000",
+			label="Ned\nHEAVEN v3\n🚀",
+			shape=square,
+			style=",filled"];
+		"%1101"	 [fillcolor="0.000000 0.486721 1.000000",
+			label="Tom\nHEAVEN v3\n🚀",
+			shape=square,
+			style=",filled"];
+			"%1101" -> "%1103";
+		"%1103" -> "%1107";
+		"%1107" -> "%1101"	 [color="0.000000 1.000000 1.000000"];
+		"%1107" -> "%1113"	 [color="0.000000 1.000000 1.000000"];
+		"%1107" -> "%1117"	 [color="0.000000 1.000000 1.000000"];
+		"%1107" -> "%1121"	 [color="0.000000 1.000000 1.000000"];
+		"%1107" -> "%1125"	 [color="0.000000 1.000000 1.000000"];
+		"%1107" -> "%1129"	 [color="0.000000 1.000000 1.000000"];
+		"%1107" -> "%1133"	 [color="0.000000 1.000000 1.000000"];
+	}
+	"%1329"	 [IVPosition="1202,293",
+		fillcolor="0.625000 0.617735 1.000000",
+		label="GL194\n🌎",
+		shape=circle,
+		style=",filled"];
+	"%1267" -> "%1329";
+	"%1333"	 [fillcolor="0.166667 0.392146 1.000000",
+		label="???\n⭐️",
+		shape=circle,
+		style=",filled"];
+	"%1275" -> "%1333";
+	"%1279" -> "%1333";
+	"%1339"	 [fillcolor="0.625000 0.617735 1.000000",
+		label="Water Planet\nEta Casiopeae\n🌎",
+		shape=circle,
+		style=",filled"];
+	"%1293" -> "%1339";
+	"%1343"	 [fillcolor="0.166667 0.392146 1.000000",
+		label="Eta\nCasiopeae\n⭐️",
+		shape=circle,
+		style=",filled"];
+	"%1293" -> "%1343";
+	"%1347"	 [IVPosition="556,1000",
+		label="Henry\nAustralian\nVessel\n🇦🇺",
+		shape=diamond];
+	"%1297" -> "%1347";
+	"%1303" -> "%1309";
+	"%1353"	 [IVPosition="441,1136",
+		label="Eurasian\nVessel\n🇪🇺",
+		shape=diamond];
+	"%1303" -> "%1353";
+	"%1325" -> "%1103";
+	"%1325" -> "%1107"	 [color="0.000000 1.000000 1.000000"];
+	"%1361"	 [IVPosition="1051,915",
+		label="Robot\nAnts \n🐜 ",
+		shape=diamond];
+	"%1329" -> "%1361";
+	"%1343" -> "%1339";
+	"%1367"	 [IVPosition="910,962",
+		label="Aliens\n👾 ",
+		shape=diamond];
+	"%1361" -> "%1367";
+	"%1367" -> "%1361";
+	subgraph clusterSolSystem  {
+		graph [label="Sol System"];
+		"%1373"	 [fillcolor="0.166667 0.392146 1.000000",
+			label="Sol\n⭐️",
+			shape=circle,
+			style=",filled"];
+		"%1167"	 [IVPosition="-37,-83",
+			fillcolor="0.625000 0.617735 1.000000",
+			label="Earth\nSol\n🌎",
+			shape=circle,
+			style=",filled"];
+  	"%1373" -> "%1167";
+  }
+}
