@@ -9,7 +9,7 @@ Download [GraphViz (DOT) source file](https://raw.githubusercontent.com/eneko/Bo
 
 ## List of editors and viewers
 - Atom with `graphviz-preview-plus` package
-- Oline at https://dreampuf.github.io/GraphvizOnline
+- Oline at http://viz-js.com or https://dreampuf.github.io/GraphvizOnline
 
 ## Learn more
 - GraphViz http://graphviz.org
